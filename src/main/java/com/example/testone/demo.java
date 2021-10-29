@@ -7,5 +7,6 @@ public class demo {
         System.out.println("444");
         System.out.println("888");
         System.out.println("本地库 push 远程库");
+        System.out.println("远程库 pull 本地库");
     }
 }
